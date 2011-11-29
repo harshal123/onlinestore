@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails onlinestore: development" product="" version="" jdbc-version="" driver-version="" uuid="3e225f03-bbcd-45a9-b40c-4906595673ca">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/onlinestore_development</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfd8dfcbdfdddf9bdf98df99</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails onlinestore: test" product="" version="" jdbc-version="" driver-version="" uuid="487127e9-e0b3-4d74-9f5b-7c3a854bff9c">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/onlinestore_test</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfd8dfcbdfdddf9bdf98df99</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails onlinestore: production" product="" version="" jdbc-version="" driver-version="" uuid="dc5eece9-e537-432c-8193-60be13815ef3">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/onlinestore_production</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfd8dfcbdfdddf9bdf98df99</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails onlinestore: development" product="" version="" jdbc-version="" driver-version="" uuid="895a3b1d-cf1f-47f0-a3da-8b556fd1e316">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/onlinestore_development</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfd8dfcbdfdddf9bdf98df99</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
